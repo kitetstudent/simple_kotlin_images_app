@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ScrollingActivity"
+    tools:showIn="@layout/activity_scrolling">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical">
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="10dp"
+           android:layout_marginLeft="@dimen/text_margin"
+           android:layout_marginRight="@dimen/text_margin"
+           android:textColor="@color/colorAccent"
+           android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+           android:id="@+id/text_title"/>
+       <TextView
+           android:id="@+id/text_desc"
+           android:layout_width="wrap_content"
+           android:lineSpacingExtra="10dp"
+           android:layout_height="wrap_content"
+           android:layout_margin="@dimen/text_margin"
+           android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            />
+
+       <com.google.android.gms.ads.AdView
+           xmlns:ads="http://schemas.android.com/apk/res-auto"
+           android:id="@+id/contentBan"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_centerHorizontal="true"
+           ads:adSize="SMART_BANNER"
+           ads:adUnitId="ca-app-pub-7456031321805187/1694734519">
+       </com.google.android.gms.ads.AdView>
+   </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

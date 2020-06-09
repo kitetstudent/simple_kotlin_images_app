@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Template</string>
+    <string name="a30">
+        This next tip may seem like a no-brainer to most of you, but even the best Candy Crush players may forget to use it when trying desperately to get to the next level. \n\n
+        Always, always start from the bottom of the board.\n\n
+        This is because crushing the candies at the bottom causes the candies above to drop down and, in turn, cause a cascading effect.\n\n
+        It basically will give you free moves and create more chances for good combos. So be sure to start the game on a good note and begin at the bottom.\n\n
+    </string>
+    <string name="a29">
+        This next one is a major tip that most don\'t know about. See, when playing a level, if you don’t make a move within a certain amount of time, the game will suggest a move for you to make. \n]n
+        Do not make this move.\n\n
+        This is simply because the moves they suggest are typically at random, and not necessarily to assist you with a good move to make. So it would be in your best interest to ignore the move and find a move you would like to make yourself.\n\n
+    </string>
+    <string name="a28">
+One great trick is reshuffling the candies on your board without even losing a life. All you have to do on your mobile device is press the exit button at the beginning of a level you are attempting to beat.\n\n
+This is best used when you first load the game and you can tell this level will be even more difficult with the placement of the candies.\n\n
+It’s a handy trick that allows you to shuffle them up without losing a life.\n\n
+The only time it isn’t useful is during a timed level, because the game has already started at that point.\n\n
+    </string>
+    <string name="a27">
+There is another way to get extra lives through a cheat. All you have to do is turn the clock on your mobile device ahead 2 hours. This allows you to continue playing longer.\n\n
+Just go to Settings > General > Date &amp; Time > Set Time Off > Set Date and Time > Add two hours forward and get 4 more lives in your game.\n\n
+You’ll have to pay back the time at some point, but schedule it for around when you’re sleeping and you are golden. Don’t forget to change it from PM to AM if you are doing this around midnight, though!\n\n
+    </string>
+    <string name="a26">
+Obviously, it is great to open up Candy Crush and see that a friend has sent you a gift. But don\'t hit accept....at least not right away.\n\n
+It is absolutely crucial when accepting certain gifts, particularly extra lives, from friends, that you only save them for when you absolutely need them.\n\n
+If you accept the gift of an extra life from a friend when you are already at max capacity, it is useless. So click ‘X’ until you are down to 2 or 3 lives and then proceed to accept the extra life.\n\n
+    </string>
+    <string name="a25">
+When playing a level, you can always hit the ‘Quit’ button to check your progress. Don’t worry, this does not mean it will actually make you quit the level you are on. First, it will ask if you are sure, and once you’ve checked your progress, you can hit the ‘X’ button instead of actually quitting.\n\n
+It will tell you, for instance, how many jelly you have left before completing the level.\n\n
+This can be really helpful when you have no idea how much farther you have to go to complete the objective of the level.\n\n
+    </string>
+    <string name="a24">
+This is yet another tip that can come in handy a numerous amount of times but may also seem like it should be obvious. Believe it or not, not everyone knows this, though.\n\n
+So, if the level you are on requires that certain things be taken out to complete said level, do that first - always. This means if they want you to destroy licorice, meringue, or chocolate, do so as soon as possible.\n\n
+Also, always make sure to destroy the time bombs before anything else, but only if they need to be destroyed.\n\n
+</string>
+    <string name="a23">
+It is incredibly easy to forget to turn off the boosts you were using in the previous level when beginning the next one, but it can be a serious problem if you forget to.\n\n
+Always make sure to turn them off, especially if you do not need the boosts for the next level.\n\n
+
+Otherwise, you will waste these boosts that can be pertinent to a future level. It will only serve to hamper your progress, as well as make you very frustrated with yourself.
+    </string>
+    <string name="a22">
+Whenever you are playing a level, it is always helpful to play the fish candy booster last. Especially if you are on a jelly level. Make sure you use the fish candies at the very end of the level because they will automatically go for any remaining jellies.\n\n
+So if you have hard to reach jellies left, they will seek them out and hopefully help you win the level. It is helpful on other levels, sure, but definitely try to save them for the jelly levels.\n\n
+    </string>
+    <string name="a21">
+There are two options when you are creating a striped candy: it will either be horizontal or vertical, and it all depends on the direction of the final candy that was moved to complete the previous formation.\n\n
+Basically, whatever direction that final candy was going in will now be the direction of the striped candy you have just created. So be mindful of that because whatever you create will explode in that direction when you do use the striped candy.\n\n
+    </string>
+    <string name="a20">
+It is helpful to know that if you have eaten a piece of chocolate in one round, then it will not regenerate in the next round. This really is helpful since it keeps the chocolate from coming back again and again.\n\n
+So make sure to try to destroy the chocolate each round that way it won’t regenerate in the following round. Unless you are playing in a later level, then I’m sure you already know that there is a chocolate maker that causes the chocolate to come back at an alarming rate.\n\n
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
